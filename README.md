@@ -12,7 +12,7 @@ W. Avy wants information about temperature trends before opening the surf shop. 
 ## Results
 - Our data shows there is not a huge difference in temperature comparing June and December having only about a 3-4 degree average temperature difference.  
 - Despite June having a higher sample of data, it does not seem to have a meaningful impact on the temperature difference throughout the year in comparison to December. June had a minimum temperature of 64&deg;F while December had a minimum of 56&deg;F. The difference being only 9&deg;F is not a stark difference in how cold it can be in Oahu.
-- The difference between the minimum and maximum temperature is 21-27&deg;F. Based on the large set of data we have, this seems to be the pattern Oahu's temperature tyically fluctuates. This shows there are not huge adjustments peoples' bodies will have to make to compensate for cold temperatures.  
+- The difference between the minimum and maximum temperature is 21-27&deg;F. Based on the large set of data we have, this seems to be the pattern Oahu's temperature tyically fluctuates. This shows there are not huge adjustments peoples' bodies will have to make to compensate for cold temperatures throughout the year.  
 
 ![image](https://user-images.githubusercontent.com/86776606/199265720-a8f33144-3c3f-4203-9d0f-941db8b790e2.png) ![image](https://user-images.githubusercontent.com/86776606/199265793-8a264595-5301-4f8b-8acd-3112639d5892.png)
 
